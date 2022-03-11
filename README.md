@@ -13,6 +13,9 @@ We are a community of people across the world giving our time to make this softw
 
 For anyone else wishing to help the community or who needs answers to questions not covered in this document, join us in our [Discord Chat](http://chat.turtlecoin.lol) here.
 
+Github api for receiving repos from a user name in bulk:
+https://api.github.com/users/[USER_NAME]/repos // replace USER_NAME
+
 ### Credits
 - TurtleCoin - [https://github.com/turtlecoin](https://github.com/turtlecoin)
 - TurtlePay - [https://github.com/TurtlePay](https://github.com/TurtlePay)

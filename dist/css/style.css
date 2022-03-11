@@ -24,10 +24,11 @@ body {
 	background: inherit;
 	z-index: -1;
 	box-shadow: inherit;
+	background-color: #00ad66;
 }
 
 .navbar-dark {
-	background: #43b380;
+	background: #000000;
 }
 
 .navbar-nav .nav-item {
